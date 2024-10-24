@@ -81,9 +81,11 @@ data.isnull:
 ![Screenshot 2024-10-24 091911](https://github.com/user-attachments/assets/72789478-43b0-4d31-9f08-d0f7d1c3dab6)
 
 Accuracy Score:
+
 ![image](https://github.com/user-attachments/assets/e63a3779-3db2-4d4e-a5ea-9471626002b1)
 
 Confusion matric :
+
 ![image](https://github.com/user-attachments/assets/b9ee6f31-71f4-4481-bbe3-a5cd566bf394)
 
 
